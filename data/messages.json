@@ -1,0 +1,38 @@
+[
+  {
+    "id": "m1",
+    "from": "Field Admin",
+    "fromRole": "ADMIN",
+    "subject": "Welcome to the community desk",
+    "preview": "Thanks for joining Palawan Wildlife. Use Identify, then file a report when you are sure of what you saw.",
+    "body": "Thanks for joining Palawan Wildlife.\n\nUse Identify to name what you saw, then file a report from your community dashboard. Verified reports earn points toward your year-end total.\n\nThis desk covers land animals and plants only. Stay a respectful distance from wildlife, and never buy wild-caught pets or products.",
+    "createdAt": "2026-11-18T08:30:00.000Z"
+  },
+  {
+    "id": "m2",
+    "from": "Field Admin",
+    "fromRole": "ADMIN",
+    "subject": "Critical: keep forest trails quiet",
+    "preview": "Please keep noise and lights low near known pangolin and pheasant forest edges this month.",
+    "body": "Several forest-edge areas are active with shy endemics this season — including pangolin sign and peacock-pheasant sightings.\n\nIf you are walking trails near secondary forest or karst edges, keep voices low, stay on the path, leave dens and diggings undisturbed, and report clear land sightings through your community report form.\n\nThank you for helping protect remaining cover.",
+    "createdAt": "2026-11-16T14:10:00.000Z"
+  },
+  {
+    "id": "m3",
+    "from": "Katala Desk",
+    "fromRole": "PARTNER",
+    "subject": "Student field notes — how points work",
+    "preview": "Each verified animal or plant report adds 25 points to your calendar-year total.",
+    "body": "For students and community members:\n\n• Submit clear notes and a photo when you can\n• Admin review decides verification\n• Each verified report adds 25 points\n• Totals accumulate until December 31\n• Land animals and plants only — water species are outside this guide\n\nAsk your teacher or group lead if you are collecting points as a class challenge.",
+    "createdAt": "2026-11-12T09:00:00.000Z"
+  },
+  {
+    "id": "m4",
+    "from": "Field Admin",
+    "fromRole": "ADMIN",
+    "subject": "General meeting — wildlife watch brief",
+    "preview": "Optional online brief for community reporters this Friday at 4:00 PM.",
+    "body": "You are invited to an optional wildlife watch brief this Friday at 4:00 PM (online).\n\nWe will cover common mis-IDs for land mammals, birds, and plants, how to write useful field notes, and what happens after you submit a report.\n\nNo RSVP required — join from the link we will post in a follow-up message.",
+    "createdAt": "2026-10-09T03:20:00.000Z"
+  }
+]

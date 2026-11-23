@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Palawan Wildlife</string>
+    <string name="title_activity_main">Palawan Wildlife</string>
+    <string name="package_name">ph.palawan.wildlife</string>
+    <string name="custom_url_scheme">ph.palawan.wildlife</string>
+</resources>

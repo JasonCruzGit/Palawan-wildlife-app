@@ -1,0 +1,52 @@
+[
+  {
+    "id": "s1",
+    "speciesSlug": "philippine-pangolin",
+    "speciesName": "Philippine Pangolin",
+    "location": "Puerto Princesa Subterranean River NP",
+    "lat": 10.192,
+    "lng": 118.926,
+    "date": "2026-10-12",
+    "notes": "Tracks and diggings near secondary forest trail at dusk."
+  },
+  {
+    "id": "s2",
+    "speciesSlug": "palawan-bearcat",
+    "speciesName": "Palawan Bearcat",
+    "location": "Cleopatra's Needle foothills",
+    "lat": 10.12,
+    "lng": 118.98,
+    "date": "2026-11-02",
+    "notes": "Night sighting in canopy; fruiting trees nearby."
+  },
+  {
+    "id": "s3",
+    "speciesSlug": "palawan-hornbill",
+    "speciesName": "Palawan Hornbill",
+    "location": "Cleopatra's Needle Critical Habitat",
+    "lat": 10.15,
+    "lng": 119.0,
+    "date": "2026-09-28",
+    "notes": "Pair calling from canopy; fruiting fig nearby."
+  },
+  {
+    "id": "s4",
+    "speciesSlug": "blue-naped-parrot",
+    "speciesName": "Blue-naped Parrot",
+    "location": "Iwahig Forest edge",
+    "lat": 9.79,
+    "lng": 118.69,
+    "date": "2026-08-15",
+    "notes": "Small flock feeding in secondary growth near trail."
+  },
+  {
+    "id": "s5",
+    "speciesSlug": "palawan-peacock-pheasant",
+    "speciesName": "Palawan Peacock-Pheasant",
+    "location": "Iwahig Forest",
+    "lat": 9.78,
+    "lng": 118.68,
+    "date": "2026-10-30",
+    "notes": "Male flushed from understory; good forest cover remaining."
+  }
+]

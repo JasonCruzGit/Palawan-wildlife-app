@@ -1,0 +1,379 @@
+[
+  {
+    "id": "1",
+    "slug": "philippine-pangolin",
+    "name": "Philippine Pangolin",
+    "localName": "Balintong",
+    "scientificName": "Manis culionensis",
+    "category": "Mammals",
+    "status": "Critically Endangered",
+    "image": "/images/species/philippine-pangolin.jpg",
+    "description": "The Philippine pangolin is endemic to Palawan and nearby islands. Covered in protective keratin scales, it curls into a ball when threatened and feeds almost exclusively on ants and termites using a long sticky tongue.",
+    "habitat": "Lowland and mid-elevation forests, secondary growth, and agricultural edges across Palawan.",
+    "diet": "Ants and termites",
+    "threats": [
+      "Illegal wildlife trade",
+      "Habitat loss",
+      "Hunting for meat and scales"
+    ],
+    "facts": [
+      "Endemic to the Palawan faunal region \u2014 found nowhere else on Earth.",
+      "A single pangolin can eat tens of thousands of ants in one night.",
+      "Its scales are made of the same material as human fingernails."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "palawan-peacock-pheasant",
+    "name": "Palawan Peacock-Pheasant",
+    "localName": "Tandikan",
+    "scientificName": "Polyplectron napoleonis",
+    "category": "Birds",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-peacock-pheasant.jpg",
+    "description": "A stunning ground-dwelling bird endemic to Palawan. Males display iridescent blue-green ocelli on their plumage and perform elaborate courtship dances.",
+    "habitat": "Primary and secondary lowland forests of Palawan.",
+    "diet": "Seeds, fruits, insects, and small invertebrates",
+    "threats": [
+      "Deforestation",
+      "Trapping for the pet trade",
+      "Hunting"
+    ],
+    "facts": [
+      "The national bird of Palawan and a symbol of the province.",
+      "Males have metallic blue crests and peacock-like eye spots.",
+      "Katala Foundation works to protect its remaining forest habitat."
+    ],
+    "size": "medium",
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "multicolor"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "palawan-hornbill",
+    "name": "Palawan Hornbill",
+    "localName": "Talusi",
+    "scientificName": "Anthracoceros marchei",
+    "category": "Birds",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-hornbill.jpg",
+    "description": "A large black-and-white hornbill found only in Palawan. It plays a vital role as a seed disperser, helping regenerate forest ecosystems.",
+    "habitat": "Forest canopy from coastal lowlands to foothills.",
+    "diet": "Fruits, insects, and small vertebrates",
+    "threats": [
+      "Logging",
+      "Hunting",
+      "Nest site loss"
+    ],
+    "facts": [
+      "Pairs seal the female inside a tree cavity while she incubates eggs.",
+      "Their loud calls echo through Palawan's forests at dawn.",
+      "Critical seed dispersers for large-fruited forest trees."
+    ],
+    "size": "large",
+    "colors": [
+      "black",
+      "white",
+      "yellow"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "palawan-bearcat",
+    "name": "Palawan Bearcat",
+    "localName": "Binturong / Benturong",
+    "scientificName": "Arctictis binturong whitei",
+    "category": "Mammals",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-bearcat.jpg",
+    "description": "Also known as the binturong, this arboreal mammal has a prehensile tail and a scent often compared to popcorn. The Palawan subspecies is smaller than its mainland relatives.",
+    "habitat": "Tall forests with dense canopy cover across Palawan.",
+    "diet": "Fruits (especially figs), small animals, and eggs",
+    "threats": [
+      "Habitat fragmentation",
+      "Pet trade",
+      "Hunting"
+    ],
+    "facts": [
+      "One of the few mammals with a fully prehensile tail.",
+      "Their musk smells remarkably like buttered popcorn.",
+      "Mostly nocturnal and rarely seen in the wild."
+    ],
+    "size": "large",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "palawan-frogmouth",
+    "name": "Palawan Frogmouth",
+    "localName": "Taktak / Frogmouth",
+    "scientificName": "Batrachostomus chaseni",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/palawan-frogmouth.jpg",
+    "description": "A master of camouflage, the Palawan frogmouth sits motionless on branches by day, resembling a broken stump. It hunts insects at night with a wide frog-like gape.",
+    "habitat": "Forest edges, secondary growth, and wooded gardens.",
+    "diet": "Large insects and small invertebrates",
+    "threats": [
+      "Habitat disturbance",
+      "Light pollution affecting prey"
+    ],
+    "facts": [
+      "Nearly invisible during the day thanks to bark-like plumage.",
+      "Endemic to the Palawan group of islands.",
+      "Named for its broad, frog-like mouth used to scoop insects."
+    ],
+    "size": "small",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "blue-naped-parrot",
+    "name": "Blue-naped Parrot",
+    "localName": "Pikoy / Culilisi",
+    "scientificName": "Tanygnathus lucionensis",
+    "category": "Birds",
+    "status": "Near Threatened",
+    "image": "/images/species/blue-naped-parrot.jpg",
+    "description": "A bright green parrot with a distinctive blue patch on the nape. Once common across the Philippines, wild populations have declined sharply due to trapping for the cage-bird trade.",
+    "habitat": "Forest, mangroves, coconut plantations, and cultivated areas.",
+    "diet": "Fruits, seeds, and nuts",
+    "threats": [
+      "Pet trade",
+      "Habitat loss"
+    ],
+    "facts": [
+      "Still relatively common in parts of Palawan compared to other islands.",
+      "Often seen in noisy flocks flying between fruiting trees.",
+      "Protected under Philippine wildlife law \u2014 trapping is illegal."
+    ],
+    "size": "medium",
+    "colors": [
+      "green",
+      "blue",
+      "yellow"
+    ],
+    "habitats": [
+      "forest",
+      "mangrove",
+      "coastal"
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "bakawan-mangrove",
+    "name": "Bakawan Mangrove",
+    "localName": "Bakawan",
+    "scientificName": "Rhizophora apiculata",
+    "category": "Plants",
+    "status": "Least Concern",
+    "image": "/images/species/bakawan-mangrove.jpg",
+    "description": "A keystone mangrove of Palawan\u2019s coasts and estuaries. Tangled stilt roots trap sediment, buffer storms, and create nursery habitat for fish, crabs, and birds.",
+    "habitat": "Tidal mudflats, river mouths, and sheltered coastal lagoons across Palawan.",
+    "diet": "Autotroph (photosynthesis)",
+    "threats": [
+      "Coastal development",
+      "Aquaculture conversion",
+      "Pollution"
+    ],
+    "facts": [
+      "Prop roots filter silt and protect shorelines from typhoon surge.",
+      "Juvenile fish and crabs use the root tangle as nursery cover.",
+      "Palawan\u2019s mangrove belts are critical blue-carbon stores."
+    ],
+    "size": "large",
+    "colors": [
+      "green",
+      "brown"
+    ],
+    "habitats": [
+      "mangrove",
+      "coastal"
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "narra-tree",
+    "name": "Narra",
+    "localName": "Narra",
+    "scientificName": "Pterocarpus indicus",
+    "category": "Plants",
+    "status": "Vulnerable",
+    "image": "/images/species/narra-tree.jpg",
+    "description": "The Philippines\u2019 national tree \u2014 prized for golden hardwood and cascades of yellow blossoms. Still found in lowland forests and planted avenues of Palawan.",
+    "habitat": "Lowland forest, riverbanks, and open cultivated ground.",
+    "diet": "Autotroph (photosynthesis)",
+    "threats": [
+      "Illegal logging",
+      "Habitat conversion"
+    ],
+    "facts": [
+      "National tree of the Philippines.",
+      "Flowers briefly carpet the ground in yellow after heavy rains.",
+      "Heartwood is durable and historically overharvested."
+    ],
+    "size": "large",
+    "colors": [
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "palawan-pitcher-plant",
+    "name": "Palawan Pitcher Plant",
+    "localName": "Pitcher / Nepenthes",
+    "scientificName": "Nepenthes mira",
+    "category": "Plants",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-pitcher-plant.jpg",
+    "description": "A carnivorous pitcher plant of Palawan\u2019s ultramafic and highland soils. Modified leaves form fluid-filled traps that digest insects where nutrients are scarce.",
+    "habitat": "Ultramafic hills, mossy forest edges, and nutrient-poor clearings in Palawan.",
+    "diet": "Photosynthesis plus insects trapped in pitchers",
+    "threats": [
+      "Collection for the plant trade",
+      "Habitat disturbance",
+      "Mining"
+    ],
+    "facts": [
+      "Endemic to Palawan\u2019s specialized soils.",
+      "Pitchers lure prey with nectar and color.",
+      "Highly sought by collectors \u2014 wild harvest is a threat."
+    ],
+    "size": "medium",
+    "colors": [
+      "green",
+      "yellow",
+      "multicolor"
+    ],
+    "habitats": [
+      "forest",
+      "grassland"
+    ]
+  },
+  {
+    "id": "12",
+    "slug": "ipil-tree",
+    "name": "Ipil",
+    "localName": "Ipil",
+    "scientificName": "Intsia bijuga",
+    "category": "Plants",
+    "status": "Vulnerable",
+    "image": "/images/species/ipil-tree.jpg",
+    "description": "A heavy hardwood of coastal and lowland forests, once abundant in Palawan. Slow-growing and heavily logged for construction and boatbuilding.",
+    "habitat": "Coastal forest, limestone woodland, and near-shore lowland forest.",
+    "diet": "Autotroph (photosynthesis)",
+    "threats": [
+      "Selective logging",
+      "Coastal clearing"
+    ],
+    "facts": [
+      "Timber is extremely dense and rot-resistant.",
+      "Often grows near mangroves and beach forest.",
+      "Regeneration is slow \u2014 recovery needs decades."
+    ],
+    "size": "large",
+    "colors": [
+      "green",
+      "brown"
+    ],
+    "habitats": [
+      "forest",
+      "coastal"
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "talisay-tree",
+    "name": "Talisay",
+    "localName": "Talisay / Umbrella tree",
+    "scientificName": "Terminalia catappa",
+    "category": "Plants",
+    "status": "Least Concern",
+    "image": "/images/species/talisay-tree.jpg",
+    "description": "A familiar beach-forest tree with broad, layered leaves that turn red before falling. Common along Palawan shores, providing shade and coastal wildlife cover.",
+    "habitat": "Beaches, coastal strands, and nearshore villages.",
+    "diet": "Autotroph (photosynthesis)",
+    "threats": [
+      "Beachfront development",
+      "Storm damage"
+    ],
+    "facts": [
+      "Leaves change color seasonally \u2014 a rare tropical deciduous display.",
+      "Fruits drift on ocean currents, helping the species colonize islands.",
+      "Shade tree for nesting shorebirds and resting travelers."
+    ],
+    "size": "large",
+    "colors": [
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "habitats": [
+      "coastal"
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "palawan-cycad",
+    "name": "Palawan Cycad",
+    "localName": "Pitogo / Cycad",
+    "scientificName": "Cycas sp. (Palawan)",
+    "category": "Plants",
+    "status": "Near Threatened",
+    "image": "/images/species/palawan-cycad.jpg",
+    "description": "Ancient seed plants of Palawan\u2019s forests and rocky slopes. Cycads look palm-like but are unrelated \u2014 living fossils that predate flowering plants.",
+    "habitat": "Forest understory, limestone outcrops, and dry hillsides.",
+    "diet": "Autotroph (photosynthesis)",
+    "threats": [
+      "Collection for landscaping",
+      "Habitat loss"
+    ],
+    "facts": [
+      "Among the oldest seed-plant lineages still alive.",
+      "Seeds and leaves are toxic if mishandled.",
+      "Slow growth makes wild populations vulnerable to harvest."
+    ],
+    "size": "medium",
+    "colors": [
+      "green"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  }
+]
