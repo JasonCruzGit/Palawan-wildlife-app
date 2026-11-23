@@ -18,7 +18,10 @@ export async function POST(request: Request) {
   const apiKey = process.env.OPENAI_API_KEY;
   if (!apiKey) {
     return NextResponse.json(
-      { error: "OPENAI_API_KEY is not set. Add it to .env.local and restart the server." },
+      {
+        error:
+          "Palawan Wildlife AI is not configured. Add OPENAI_API_KEY to .env.local and restart the server.",
+      },
       { status: 503 }
     );
   }
@@ -91,7 +94,10 @@ export async function POST(request: Request) {
 
     const raw = completion.choices[0]?.message?.content;
     if (!raw) {
-      return NextResponse.json({ error: "Empty response from OpenAI." }, { status: 502 });
+      return NextResponse.json(
+        { error: "Empty response from Palawan Wildlife AI." },
+        { status: 502 }
+      );
     }
 
     const result = parseIdentifyResult(raw);

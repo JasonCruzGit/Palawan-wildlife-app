@@ -2,7 +2,7 @@
 
 Public webpage + mobile-first field guide for Palawan's endemic wildlife. Built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Species data lives in local JSON — no database required.
 
-Photo identification for **animals and plants** uses **OpenAI Vision** (`gpt-4o`).
+Photo identification for **animals and plants** uses **Palawan Wildlife AI**.
 
 ## Setup
 
@@ -17,7 +17,7 @@ Add your key to `.env.local`:
 OPENAI_API_KEY=sk-...
 ```
 
-Get a key at [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
+Developer setup: Palawan Wildlife AI uses an API key from [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
 
 ```bash
 npm run dev
@@ -73,7 +73,7 @@ Requires JDK 21 for the Gradle build (`/opt/homebrew/opt/openjdk@21`).
 | `/` | Home — hero, mission, featured species, CTA |
 | `/species` | Searchable / filterable species explorer |
 | `/species/[slug]` | Species detail |
-| `/identify` | **Photo ID** (OpenAI) + manual field filters |
+| `/identify` | **Photo ID** (Palawan Wildlife AI) + manual field filters |
 | `/map` | Recent sightings + map placeholder |
 | `/conservation` | Threats, work, how to help |
 | `/report` | **Phase 2** — sighting reports (coming soon) |

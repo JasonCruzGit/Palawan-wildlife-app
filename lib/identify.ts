@@ -51,18 +51,17 @@ export function buildIdentifyPrompt(
 ) {
   const focus =
     mode === "plant"
-      ? `The observer selected PLANT. Identify the land plant only (tree, shrub, palm, mangrove, orchid, fern, herb, cycad, pitcher plant, etc.).
+      ? `The observer selected PLANT. Identify the plant (tree, shrub, palm, mangrove, orchid, fern, herb, cycad, pitcher plant, seagrass, etc.).
 Set "kind" to "plant" unless the image clearly shows no plant — then use "unknown" and explain in notes.
-Do not identify animals as the primary result. Do not focus on seagrass, algae, or fully aquatic plants.`
-      : `The observer selected SPECIES (animal). Identify the land animal only (mammal, bird, reptile, amphibian, terrestrial invertebrate, etc.).
+Do not identify animals as the primary result.`
+      : `The observer selected SPECIES (animal). Identify the animal — land or water (mammal, bird, reptile including sea turtles and crocodiles, amphibian, etc.).
 Set "kind" to "animal" unless the image clearly shows no animal — then use "unknown" and explain in notes.
 Do not identify plants as the primary result.
-This catalogue excludes marine and open-water wildlife (no dugong, sea turtles, fish, corals). If the image is clearly marine, set kind to "unknown" and say so in notes.
-When matching the catalogue, prefer animal entries.`;
+When matching the catalogue, prefer animal entries (including coastal and marine reptiles such as sea turtles).`;
 
-  return `You are a field naturalist specializing in terrestrial Palawan wildlife and plants, Philippines (UNESCO Biosphere Reserve).
+  return `You are a field naturalist specializing in Palawan wildlife and plants, Philippines (UNESCO Biosphere Reserve) — forests, coasts, and nearshore waters.
 
-Identify the subject in the image. Prefer Palawan / Philippine endemic or native land taxa when plausible. Ignore marine subjects.
+Identify the subject in the image. Prefer Palawan / Philippine endemic or native taxa when plausible, including coastal and marine species present in the catalogue.
 
 ${focus}
 

@@ -18,7 +18,7 @@ export default function IdentifyPage() {
         Identify
       </h1>
       <p className="mt-3 max-w-xl text-ink-soft">
-        Photo ID for animals and plants via OpenAI — or filter the guide by size, color, and
+        Photo ID for animals and plants via Palawan Wildlife AI — or filter the guide by size, color, and
         habitat when you already have a hunch.
       </p>
 

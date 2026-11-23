@@ -17,7 +17,7 @@
       "Hunting for meat and scales"
     ],
     "facts": [
-      "Endemic to the Palawan faunal region \u2014 found nowhere else on Earth.",
+      "Endemic to the Palawan faunal region — found nowhere else on Earth.",
       "A single pangolin can eat tens of thousands of ants in one night.",
       "Its scales are made of the same material as human fingernails."
     ],
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "id": "7",
+    "id": "5",
     "slug": "palawan-frogmouth",
     "name": "Palawan Frogmouth",
     "localName": "Taktak / Frogmouth",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "id": "8",
+    "id": "6",
     "slug": "blue-naped-parrot",
     "name": "Blue-naped Parrot",
     "localName": "Pikoy / Culilisi",
@@ -175,7 +175,7 @@
     "facts": [
       "Still relatively common in parts of Palawan compared to other islands.",
       "Often seen in noisy flocks flying between fruiting trees.",
-      "Protected under Philippine wildlife law \u2014 trapping is illegal."
+      "Protected under Philippine wildlife law — trapping is illegal."
     ],
     "size": "medium",
     "colors": [
@@ -190,7 +190,701 @@
     ]
   },
   {
+    "id": "7",
+    "slug": "crested-serpent-eagle",
+    "name": "Crested Serpent Eagle",
+    "localName": "Banog / Serpent eagle",
+    "scientificName": "Spilornis cheela",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/crested-serpent-eagle.jpg",
+    "description": "A medium-sized raptor of Palawan’s forests, often heard before it is seen. It specializes in snakes and lizards, scanning the canopy and forest floor from exposed perches.",
+    "habitat": "Forest edges, secondary growth, and wooded hillsides.",
+    "diet": "Snakes, lizards, and small vertebrates",
+    "threats": [
+      "Habitat loss",
+      "Persecution"
+    ],
+    "facts": [
+      "Named for its preference for snakes and other reptiles.",
+      "Distinctive whistling calls carry far across forest valleys.",
+      "A short crest of feathers rises when the bird is alert."
+    ],
+    "size": "large",
+    "colors": [
+      "brown",
+      "white",
+      "black"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "mantanani-scops-owl",
+    "name": "Mantanani Scops Owl",
+    "localName": "Kuwago / Scops owl",
+    "scientificName": "Otus mantananensis",
+    "category": "Birds",
+    "status": "Near Threatened",
+    "image": "/images/species/mantanani-scops-owl.jpg",
+    "description": "A small island scops owl found on Mantanani and other islets of the Sulu and Palawan region. Cryptic brown plumage helps it blend into bark and leaf litter by day.",
+    "habitat": "Coastal forest, scrub, and coconut plantations on small islands.",
+    "diet": "Insects and small invertebrates",
+    "threats": [
+      "Habitat clearing",
+      "Island development"
+    ],
+    "facts": [
+      "Restricted to a handful of small islands in the region.",
+      "Mostly nocturnal — day roosts are hard to spot.",
+      "Island populations are vulnerable to even small habitat losses."
+    ],
+    "size": "small",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest",
+      "coastal"
+    ]
+  },
+  {
     "id": "9",
+    "slug": "peregrine-falcon",
+    "name": "Peregrine Falcon",
+    "localName": "Falcon / Banog",
+    "scientificName": "Falco peregrinus",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/peregrine-falcon.jpg",
+    "description": "One of the world’s fastest birds, the peregrine visits Palawan cliffs and coasts on migration and as a winter visitor. It stoops on flying prey at extraordinary speed.",
+    "habitat": "Coastal cliffs, open forest edges, and rocky outcrops.",
+    "diet": "Birds caught in flight",
+    "threats": [
+      "Pesticide residues",
+      "Disturbance at nest cliffs"
+    ],
+    "facts": [
+      "Dive speeds can exceed 300 km/h in a hunting stoop.",
+      "A seasonal visitor and passage migrant in the Philippines.",
+      "Recovered globally after DDT bans in many countries."
+    ],
+    "size": "medium",
+    "colors": [
+      "gray",
+      "white",
+      "black"
+    ],
+    "habitats": [
+      "coastal",
+      "forest"
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "pied-imperial-pigeon",
+    "name": "Pied Imperial Pigeon",
+    "localName": "Balud / Imperial pigeon",
+    "scientificName": "Ducula bicolor",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/pied-imperial-pigeon.jpg",
+    "description": "A striking black-and-white pigeon of coastal forests and small islands. Flocks move between fruiting trees, dispersing large seeds across the seascape.",
+    "habitat": "Coastal forest, mangroves, and offshore islands.",
+    "diet": "Fruits and berries",
+    "threats": [
+      "Hunting",
+      "Coastal clearing"
+    ],
+    "facts": [
+      "Bold pied plumage makes flocks easy to spot in flight.",
+      "Important seed dispersers for island forest trees.",
+      "Often nests in colonies on small islets."
+    ],
+    "size": "medium",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "habitats": [
+      "coastal",
+      "mangrove",
+      "forest"
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "crested-goshawk",
+    "name": "Crested Goshawk",
+    "localName": "Goshawk / Banog",
+    "scientificName": "Accipiter trivirgatus",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/crested-goshawk.jpg",
+    "description": "A forest hawk with barred underparts and a short crest. It hunts birds and small mammals through dense canopy, relying on surprise and agility.",
+    "habitat": "Primary and secondary forest, wooded parks.",
+    "diet": "Birds, lizards, and small mammals",
+    "threats": [
+      "Forest fragmentation"
+    ],
+    "facts": [
+      "Short rounded wings help it weave through dense branches.",
+      "Often perches quietly before launching a sudden chase.",
+      "Present year-round in suitable Palawan forest."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "gray",
+      "white"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "12",
+    "slug": "grey-faced-buzzard",
+    "name": "Grey-faced Buzzard",
+    "localName": "Buzzard / Banog",
+    "scientificName": "Butastur indicus",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/grey-faced-buzzard.jpg",
+    "description": "A migratory raptor that passes through and winters in the Philippines. Pale underparts and a greyish face help separate it from resident forest hawks.",
+    "habitat": "Open woodland, forest edges, and agricultural mosaics.",
+    "diet": "Frogs, lizards, insects, and small vertebrates",
+    "threats": [
+      "Habitat change along migration routes"
+    ],
+    "facts": [
+      "A classic East Asian migrant that reaches Palawan each winter.",
+      "Often seen perched on poles or dead trees scanning for prey.",
+      "Flocks may move together on migration days."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "gray",
+      "white"
+    ],
+    "habitats": [
+      "forest",
+      "grassland"
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "white-bellied-sea-eagle",
+    "name": "White-bellied Sea Eagle",
+    "localName": "Sea eagle / Banog dagat",
+    "scientificName": "Haliaeetus leucogaster",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/white-bellied-sea-eagle.jpg",
+    "description": "A large coastal eagle with a white belly and dark wings. It patrols shorelines and islands for fish and waterbirds, nesting in tall trees overlooking the sea.",
+    "habitat": "Coasts, islands, estuaries, and large inland lakes.",
+    "diet": "Fish, waterbirds, and carrion",
+    "threats": [
+      "Disturbance at nest sites",
+      "Coastal development"
+    ],
+    "facts": [
+      "Adults show a clean white head and underparts.",
+      "Pairs often reuse the same huge stick nest for years.",
+      "A familiar sight along Palawan’s quieter shorelines."
+    ],
+    "size": "large",
+    "colors": [
+      "white",
+      "gray",
+      "black"
+    ],
+    "habitats": [
+      "coastal"
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "spotted-wood-owl",
+    "name": "Spotted Wood Owl",
+    "localName": "Kuwago / Wood owl",
+    "scientificName": "Strix seloputo",
+    "category": "Birds",
+    "status": "Least Concern",
+    "image": "/images/species/spotted-wood-owl.jpg",
+    "description": "A large, boldly spotted owl of lowland forest and wooded gardens. Nocturnal hunters, they take rodents and large insects from perches in the mid-canopy.",
+    "habitat": "Lowland forest, secondary growth, and wooded settlements.",
+    "diet": "Rodents, birds, and large insects",
+    "threats": [
+      "Habitat loss",
+      "Collision with vehicles"
+    ],
+    "facts": [
+      "Round head without ear tufts distinguishes it from scops owls.",
+      "Deep hooting calls carry through still nights.",
+      "Day roosts are often in dense foliage close to the trunk."
+    ],
+    "size": "large",
+    "colors": [
+      "brown",
+      "white",
+      "multicolor"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "15",
+    "slug": "nicobar-pigeon",
+    "name": "Nicobar Pigeon",
+    "localName": "Balud / Nicobar",
+    "scientificName": "Caloenas nicobarica",
+    "category": "Birds",
+    "status": "Near Threatened",
+    "image": "/images/species/nicobar-pigeon.jpg",
+    "description": "A iridescent green pigeon of small islands and coastal forest. Closely related to the extinct dodo’s lineage, it nests on offshore islets and forages on larger islands.",
+    "habitat": "Small islands, coastal forest, and mangroves.",
+    "diet": "Seeds, fruits, and buds",
+    "threats": [
+      "Hunting",
+      "Island habitat loss",
+      "Introduced predators"
+    ],
+    "facts": [
+      "Metallic green plumage shimmers in sunlight.",
+      "Often nests colonially on predator-free islets.",
+      "Populations are declining across much of its range."
+    ],
+    "size": "medium",
+    "colors": [
+      "green",
+      "gray",
+      "multicolor"
+    ],
+    "habitats": [
+      "coastal",
+      "forest",
+      "mangrove"
+    ]
+  },
+  {
+    "id": "16",
+    "slug": "grey-imperial-pigeon",
+    "name": "Grey Imperial Pigeon",
+    "localName": "Balud",
+    "scientificName": "Ducula pickeringii",
+    "category": "Birds",
+    "status": "Vulnerable",
+    "image": "/images/species/grey-imperial-pigeon.jpg",
+    "description": "A soft-grey imperial pigeon of the Sulu and Palawan region. It depends on fruiting forest trees and is sensitive to hunting and habitat loss on small islands.",
+    "habitat": "Lowland and coastal forest on islands.",
+    "diet": "Fruits",
+    "threats": [
+      "Hunting",
+      "Forest clearing"
+    ],
+    "facts": [
+      "Restricted to a limited set of Philippine and nearby islands.",
+      "Quiet canopy bird — often detected by soft calls.",
+      "Seed dispersal helps maintain island forest diversity."
+    ],
+    "size": "medium",
+    "colors": [
+      "gray",
+      "white"
+    ],
+    "habitats": [
+      "forest",
+      "coastal"
+    ]
+  },
+  {
+    "id": "17",
+    "slug": "palawan-leopard-cat",
+    "name": "Palawan Leopard Cat",
+    "localName": "Maral / Leopard cat",
+    "scientificName": "Prionailurus bengalensis heaneyi",
+    "category": "Mammals",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-leopard-cat.jpg",
+    "description": "A small spotted wild cat endemic as a subspecies to Palawan. Camera traps often capture it along forest trails at night as it hunts rodents and birds.",
+    "habitat": "Forest, secondary growth, and forest edges.",
+    "diet": "Rodents, birds, and small vertebrates",
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Roadkill"
+    ],
+    "facts": [
+      "Palawan hosts a distinct leopard-cat subspecies.",
+      "Mostly nocturnal and solitary.",
+      "Camera-trap surveys are key to monitoring its status."
+    ],
+    "size": "small",
+    "colors": [
+      "brown",
+      "black",
+      "white"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "18",
+    "slug": "palawan-bearded-pig",
+    "name": "Palawan Bearded Pig",
+    "localName": "Baboy damo / Bearded pig",
+    "scientificName": "Sus ahoenobarbus",
+    "category": "Mammals",
+    "status": "Vulnerable",
+    "image": "/images/species/palawan-bearded-pig.jpg",
+    "description": "A wild pig endemic to the Palawan faunal region, named for the pale beard of bristles around the snout. It roots through leaf litter and shapes understory plant communities.",
+    "habitat": "Forest, secondary growth, and forest–farm edges.",
+    "diet": "Roots, fruits, invertebrates, and plant matter",
+    "threats": [
+      "Hunting",
+      "Habitat fragmentation",
+      "Disease from domestic pigs"
+    ],
+    "facts": [
+      "Endemic to Palawan and nearby islands.",
+      "Important ecosystem engineers through soil disturbance.",
+      "Often recorded on camera traps along ridge trails."
+    ],
+    "size": "large",
+    "colors": [
+      "brown",
+      "black",
+      "gray"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "19",
+    "slug": "asian-small-clawed-otter",
+    "name": "Asian Small-clawed Otter",
+    "localName": "Otter / Dampalit",
+    "scientificName": "Aonyx cinereus",
+    "category": "Mammals",
+    "status": "Vulnerable",
+    "image": "/images/species/asian-small-clawed-otter.jpg",
+    "description": "The world’s smallest otter species, found along Palawan’s streams, mangroves, and wetlands. Family groups hunt crabs and other aquatic prey with sensitive paws.",
+    "habitat": "Rivers, mangroves, wetlands, and coastal waterways.",
+    "diet": "Crabs, mollusks, and small fish",
+    "threats": [
+      "Wetland loss",
+      "Pollution",
+      "Hunting"
+    ],
+    "facts": [
+      "Partially webbed feet with reduced claws for feeling prey.",
+      "Often lives in extended family groups.",
+      "Camera traps capture them on muddy forest floors near water."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "mangrove",
+      "forest",
+      "coastal"
+    ]
+  },
+  {
+    "id": "20",
+    "slug": "palawan-collared-mongoose",
+    "name": "Palawan Collared Mongoose",
+    "localName": "Mongoose",
+    "scientificName": "Urva semitorquata / Palawan form",
+    "category": "Mammals",
+    "status": "Near Threatened",
+    "image": "/images/species/palawan-collared-mongoose.jpg",
+    "description": "A slender forest mongoose of Palawan’s leaf litter. It forages for insects, small vertebrates, and fallen fruit along trails and stream banks.",
+    "habitat": "Lowland and mid-elevation forest.",
+    "diet": "Insects, small vertebrates, and fruit",
+    "threats": [
+      "Habitat loss",
+      "Hunting"
+    ],
+    "facts": [
+      "Camera traps frequently record it on forest floors.",
+      "Active by day more often than many nocturnal carnivores.",
+      "Helps control insect and rodent populations."
+    ],
+    "size": "small",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "21",
+    "slug": "long-tailed-macaque",
+    "name": "Long-tailed Macaque",
+    "localName": "Unggoy / Cyno",
+    "scientificName": "Macaca fascicularis",
+    "category": "Mammals",
+    "status": "Endangered",
+    "image": "/images/species/long-tailed-macaque.jpg",
+    "description": "A familiar primate of Palawan’s forests and coastal edges. Troops forage for fruit and invertebrates and can become bold near human settlements.",
+    "habitat": "Forest, mangroves, and forest edges near farms and coasts.",
+    "diet": "Fruits, leaves, insects, and opportunistic foods",
+    "threats": [
+      "Habitat loss",
+      "Conflict with people",
+      "Wildlife trade"
+    ],
+    "facts": [
+      "Also called the crab-eating macaque.",
+      "Highly social — lives in multi-male, multi-female troops.",
+      "IUCN uplisted due to trade and habitat pressure."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest",
+      "mangrove",
+      "coastal"
+    ]
+  },
+  {
+    "id": "22",
+    "slug": "palawan-treeshrew",
+    "name": "Palawan Treeshrew",
+    "localName": "Treeshrew",
+    "scientificName": "Tupaia palawanensis",
+    "category": "Mammals",
+    "status": "Least Concern",
+    "image": "/images/species/palawan-treeshrew.jpg",
+    "description": "A small, squirrel-like endemic mammal of Palawan’s forests. Despite the name, treeshrews are not true shrews and are more closely related to primates.",
+    "habitat": "Forest understory and secondary growth.",
+    "diet": "Insects, fruit, and small invertebrates",
+    "threats": [
+      "Habitat disturbance"
+    ],
+    "facts": [
+      "Endemic to the Palawan faunal region.",
+      "Fast, nervous foragers of the forest floor and low branches.",
+      "Important insect predators in the understory."
+    ],
+    "size": "small",
+    "colors": [
+      "brown"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "23",
+    "slug": "northern-palawan-tree-squirrel",
+    "name": "Northern Palawan Tree Squirrel",
+    "localName": "Bising / Squirrel",
+    "scientificName": "Sundasciurus juvencus",
+    "category": "Mammals",
+    "status": "Least Concern",
+    "image": "/images/species/northern-palawan-tree-squirrel.jpg",
+    "description": "A lively tree squirrel of northern Palawan forests. It races along trunks and branches, feeding on seeds and fruits high in the canopy.",
+    "habitat": "Lowland and hill forest canopy.",
+    "diet": "Seeds, fruits, and nuts",
+    "threats": [
+      "Habitat loss"
+    ],
+    "facts": [
+      "Endemic to northern Palawan.",
+      "Often heard before it is seen — sharp alarm calls.",
+      "Helps disperse seeds through the forest canopy."
+    ],
+    "size": "small",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "24",
+    "slug": "saltwater-crocodile",
+    "name": "Saltwater Crocodile",
+    "localName": "Buwaya",
+    "scientificName": "Crocodylus porosus",
+    "category": "Reptiles",
+    "status": "Least Concern",
+    "image": "/images/species/saltwater-crocodile.jpg",
+    "description": "The world’s largest living reptile, found in Palawan’s rivers, mangroves, and coastal wetlands. Apex predators that shape aquatic food webs.",
+    "habitat": "Rivers, mangroves, estuaries, and coastal wetlands.",
+    "diet": "Fish, birds, mammals, and carrion",
+    "threats": [
+      "Habitat loss",
+      "Human–crocodile conflict",
+      "Hunting"
+    ],
+    "facts": [
+      "Can exceed 6 meters in exceptional individuals.",
+      "Tolerates both fresh and salt water.",
+      "Palawan still holds important wild populations."
+    ],
+    "size": "large",
+    "colors": [
+      "gray",
+      "brown",
+      "black"
+    ],
+    "habitats": [
+      "mangrove",
+      "coastal"
+    ]
+  },
+  {
+    "id": "25",
+    "slug": "philippine-forest-turtle",
+    "name": "Philippine Forest Turtle",
+    "localName": "Pagong / Forest turtle",
+    "scientificName": "Siebenrockiella leytensis",
+    "category": "Reptiles",
+    "status": "Critically Endangered",
+    "image": "/images/species/philippine-forest-turtle.jpg",
+    "description": "A rare freshwater turtle with a distinctive pale band behind the eye. Once thought extinct, it survives in forest streams of Palawan and requires urgent protection from trade.",
+    "habitat": "Forest streams, wetlands, and swamp forest.",
+    "diet": "Omnivorous — plants, invertebrates, and carrion",
+    "threats": [
+      "Illegal wildlife trade",
+      "Habitat loss"
+    ],
+    "facts": [
+      "Rediscovered after decades without confirmed records.",
+      "Highly valued in the illegal pet trade.",
+      "Katala Foundation supports field conservation for this species."
+    ],
+    "size": "medium",
+    "colors": [
+      "brown",
+      "black",
+      "white"
+    ],
+    "habitats": [
+      "forest"
+    ]
+  },
+  {
+    "id": "26",
+    "slug": "water-monitor",
+    "name": "Water Monitor",
+    "localName": "Bayo / Monitor lizard",
+    "scientificName": "Varanus salvator",
+    "category": "Reptiles",
+    "status": "Least Concern",
+    "image": "/images/species/water-monitor.jpg",
+    "description": "A large, alert monitor lizard of rivers, mangroves, and forest edges. It forages widely for carrion, eggs, and small animals, flicking its tongue to scent the trail.",
+    "habitat": "Riversides, mangroves, forests, and village edges.",
+    "diet": "Carrion, eggs, invertebrates, and small vertebrates",
+    "threats": [
+      "Hunting for skin and meat",
+      "Persecution"
+    ],
+    "facts": [
+      "Excellent swimmers — often seen near water.",
+      "Forked tongue samples scent molecules like a snake.",
+      "Common in many Palawan habitats but locally hunted."
+    ],
+    "size": "large",
+    "colors": [
+      "black",
+      "gray",
+      "brown"
+    ],
+    "habitats": [
+      "forest",
+      "mangrove",
+      "coastal"
+    ]
+  },
+  {
+    "id": "27",
+    "slug": "green-sea-turtle",
+    "name": "Green Sea Turtle",
+    "localName": "Pawikan",
+    "scientificName": "Chelonia mydas",
+    "category": "Reptiles",
+    "status": "Endangered",
+    "image": "/images/species/green-sea-turtle.jpg",
+    "description": "A large marine turtle that nests on Palawan beaches and forages on seagrass beds and reefs. Adults are mostly herbivorous, grazing seagrass meadows that stabilize coastal waters.",
+    "habitat": "Coastal waters, seagrass beds, coral reefs, and nesting beaches across Palawan.",
+    "diet": "Seagrass and algae (adults); omnivorous as juveniles",
+    "threats": [
+      "Bycatch in fisheries",
+      "Egg harvesting",
+      "Coastal development",
+      "Plastic pollution"
+    ],
+    "facts": [
+      "Named for the green fat beneath its shell, not its shell color.",
+      "Returns to natal beaches to nest after decades at sea.",
+      "Palawan’s pawikan nesting beaches are critical for Philippine populations."
+    ],
+    "size": "large",
+    "colors": [
+      "green",
+      "brown",
+      "black"
+    ],
+    "habitats": [
+      "coastal"
+    ]
+  },
+  {
+    "id": "28",
+    "slug": "hawksbill-sea-turtle",
+    "name": "Hawksbill Sea Turtle",
+    "localName": "Pawikan / Hawksbill",
+    "scientificName": "Eretmochelys imbricata",
+    "category": "Reptiles",
+    "status": "Critically Endangered",
+    "image": "/images/species/hawksbill-sea-turtle.jpg",
+    "description": "A reef-associated sea turtle with a narrow, hawk-like beak used to feed on sponges. Its overlapping scutes once drove the tortoiseshell trade that pushed the species toward extinction.",
+    "habitat": "Coral reefs, rocky coasts, and nesting beaches in the Palawan region.",
+    "diet": "Sponges, invertebrates, and some algae",
+    "threats": [
+      "Tortoiseshell trade",
+      "Bycatch",
+      "Reef degradation",
+      "Egg collection"
+    ],
+    "facts": [
+      "Overlapping shell scutes give the classic tortoiseshell pattern.",
+      "Critically endangered worldwide — still illegally traded.",
+      "Important grazers and sponge predators that help keep reef balance."
+    ],
+    "size": "large",
+    "colors": [
+      "brown",
+      "yellow",
+      "multicolor"
+    ],
+    "habitats": [
+      "coastal"
+    ]
+  },
+  {
+    "id": "29",
     "slug": "bakawan-mangrove",
     "name": "Bakawan Mangrove",
     "localName": "Bakawan",
@@ -198,7 +892,7 @@
     "category": "Plants",
     "status": "Least Concern",
     "image": "/images/species/bakawan-mangrove.jpg",
-    "description": "A keystone mangrove of Palawan\u2019s coasts and estuaries. Tangled stilt roots trap sediment, buffer storms, and create nursery habitat for fish, crabs, and birds.",
+    "description": "A keystone mangrove of Palawan’s coasts and estuaries. Tangled stilt roots trap sediment, buffer storms, and create nursery habitat for fish, crabs, and birds.",
     "habitat": "Tidal mudflats, river mouths, and sheltered coastal lagoons across Palawan.",
     "diet": "Autotroph (photosynthesis)",
     "threats": [
@@ -209,7 +903,7 @@
     "facts": [
       "Prop roots filter silt and protect shorelines from typhoon surge.",
       "Juvenile fish and crabs use the root tangle as nursery cover.",
-      "Palawan\u2019s mangrove belts are critical blue-carbon stores."
+      "Palawan’s mangrove belts are critical blue-carbon stores."
     ],
     "size": "large",
     "colors": [
@@ -222,7 +916,7 @@
     ]
   },
   {
-    "id": "10",
+    "id": "30",
     "slug": "narra-tree",
     "name": "Narra",
     "localName": "Narra",
@@ -230,7 +924,7 @@
     "category": "Plants",
     "status": "Vulnerable",
     "image": "/images/species/narra-tree.jpg",
-    "description": "The Philippines\u2019 national tree \u2014 prized for golden hardwood and cascades of yellow blossoms. Still found in lowland forests and planted avenues of Palawan.",
+    "description": "The Philippines’ national tree — prized for golden hardwood and cascades of yellow blossoms. Still found in lowland forests and planted avenues of Palawan.",
     "habitat": "Lowland forest, riverbanks, and open cultivated ground.",
     "diet": "Autotroph (photosynthesis)",
     "threats": [
@@ -253,7 +947,7 @@
     ]
   },
   {
-    "id": "11",
+    "id": "31",
     "slug": "palawan-pitcher-plant",
     "name": "Palawan Pitcher Plant",
     "localName": "Pitcher / Nepenthes",
@@ -261,7 +955,7 @@
     "category": "Plants",
     "status": "Vulnerable",
     "image": "/images/species/palawan-pitcher-plant.jpg",
-    "description": "A carnivorous pitcher plant of Palawan\u2019s ultramafic and highland soils. Modified leaves form fluid-filled traps that digest insects where nutrients are scarce.",
+    "description": "A carnivorous pitcher plant of Palawan’s ultramafic and highland soils. Modified leaves form fluid-filled traps that digest insects where nutrients are scarce.",
     "habitat": "Ultramafic hills, mossy forest edges, and nutrient-poor clearings in Palawan.",
     "diet": "Photosynthesis plus insects trapped in pitchers",
     "threats": [
@@ -270,9 +964,9 @@
       "Mining"
     ],
     "facts": [
-      "Endemic to Palawan\u2019s specialized soils.",
+      "Endemic to Palawan’s specialized soils.",
       "Pitchers lure prey with nectar and color.",
-      "Highly sought by collectors \u2014 wild harvest is a threat."
+      "Highly sought by collectors — wild harvest is a threat."
     ],
     "size": "medium",
     "colors": [
@@ -286,7 +980,7 @@
     ]
   },
   {
-    "id": "12",
+    "id": "32",
     "slug": "ipil-tree",
     "name": "Ipil",
     "localName": "Ipil",
@@ -304,7 +998,7 @@
     "facts": [
       "Timber is extremely dense and rot-resistant.",
       "Often grows near mangroves and beach forest.",
-      "Regeneration is slow \u2014 recovery needs decades."
+      "Regeneration is slow — recovery needs decades."
     ],
     "size": "large",
     "colors": [
@@ -317,7 +1011,7 @@
     ]
   },
   {
-    "id": "13",
+    "id": "33",
     "slug": "talisay-tree",
     "name": "Talisay",
     "localName": "Talisay / Umbrella tree",
@@ -333,7 +1027,7 @@
       "Storm damage"
     ],
     "facts": [
-      "Leaves change color seasonally \u2014 a rare tropical deciduous display.",
+      "Leaves change color seasonally — a rare tropical deciduous display.",
       "Fruits drift on ocean currents, helping the species colonize islands.",
       "Shade tree for nesting shorebirds and resting travelers."
     ],
@@ -348,7 +1042,7 @@
     ]
   },
   {
-    "id": "14",
+    "id": "34",
     "slug": "palawan-cycad",
     "name": "Palawan Cycad",
     "localName": "Pitogo / Cycad",
@@ -356,7 +1050,7 @@
     "category": "Plants",
     "status": "Near Threatened",
     "image": "/images/species/palawan-cycad.jpg",
-    "description": "Ancient seed plants of Palawan\u2019s forests and rocky slopes. Cycads look palm-like but are unrelated \u2014 living fossils that predate flowering plants.",
+    "description": "Ancient seed plants of Palawan’s forests and rocky slopes. Cycads look palm-like but are unrelated — living fossils that predate flowering plants.",
     "habitat": "Forest understory, limestone outcrops, and dry hillsides.",
     "diet": "Autotroph (photosynthesis)",
     "threats": [

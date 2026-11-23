@@ -3,11 +3,12 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
+/** Only Katala / field photos from the catalogue uploads — no generated stock. */
 const slides = [
   {
-    src: "/images/hero-pangolin.png",
-    alt: "Philippine pangolin mother carrying her pup through forest undergrowth",
-    position: "object-[center_45%]",
+    src: "/images/species/philippine-pangolin.jpg",
+    alt: "Philippine pangolin on the forest floor",
+    position: "object-[center_50%]",
   },
   {
     src: "/images/species/palawan-peacock-pheasant.jpg",
@@ -15,19 +16,19 @@ const slides = [
     position: "object-[center_40%]",
   },
   {
-    src: "/images/species/palawan-hornbill.jpg",
-    alt: "Palawan hornbill in the canopy",
+    src: "/images/species/green-sea-turtle.jpg",
+    alt: "Green sea turtle over a Palawan reef",
     position: "object-center",
   },
   {
-    src: "/images/species/palawan-bearcat.jpg",
-    alt: "Palawan bearcat in forest cover",
+    src: "/images/species/crested-goshawk.jpg",
+    alt: "Crested goshawk perched in the canopy",
     position: "object-[center_35%]",
   },
   {
-    src: "/images/species/philippine-pangolin.jpg",
-    alt: "Philippine pangolin on the forest floor",
-    position: "object-[center_50%]",
+    src: "/images/species/peregrine-falcon.jpg",
+    alt: "Peregrine falcon photographed in Palawan",
+    position: "object-[center_45%]",
   },
 ];
 

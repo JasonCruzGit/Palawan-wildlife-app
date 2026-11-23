@@ -21,9 +21,9 @@ export default function AboutPage() {
         About
       </h1>
       <p className="mt-5 text-base leading-relaxed text-ink sm:text-lg">
-        Palawan Wildlife is a public field guide and citizen desk for the island&apos;s endemic
-        land animals and plants. Name what you see. Learn what threatens it. Send a report that
-        can reach people who respond.
+        Palawan Wildlife is a public field guide and citizen desk for the island&apos;s animals
+        and plants — forests, coasts, and nearshore waters. Name what you see. Learn what
+        threatens it. Send a report that can reach people who respond.
       </p>
       <p className="mt-4 leading-relaxed text-ink-soft">
         The public guide needs no account. Community reporters and field admins can sign in to

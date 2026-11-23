@@ -7,21 +7,21 @@ import { getFeaturedSpecies, sightings, species } from "@/lib/species";
 const habitats = [
   {
     name: "Forest",
-    body: "Lowland and limestone forests hold pangolins, peacock-pheasants, bearcat, and hornbills — many of them found only in the Palawan faunal region.",
-    image: "/images/species/palawan-peacock-pheasant.jpg",
-    alt: "Palawan peacock-pheasant in forest understory",
+    body: "Lowland and limestone forests hold pangolins, peacock-pheasants, leopard cats, and hornbills — many of them found only in the Palawan faunal region.",
+    image: "/images/species/palawan-hornbill.jpg",
+    alt: "Palawan hornbill on a forest log",
   },
   {
-    name: "Mangrove & shore forest",
-    body: "Bakawan stands and beach-forest trees like talisay buffer storms, hold birds and crabs, and mark the edge between land and tide.",
-    image: "/images/species/bakawan-mangrove.jpg",
-    alt: "Bakawan mangrove stand along a Palawan shore",
+    name: "Coast & nearshore waters",
+    body: "Mangroves, nesting beaches, and reefs link land to sea — pawikan (green and hawksbill turtles), crocodiles, and shore forest share this edge.",
+    image: "/images/species/hawksbill-sea-turtle.jpg",
+    alt: "Hawksbill sea turtle in coastal waters",
   },
   {
-    name: "Karst & grassland edge",
-    body: "Open limestone slopes and grassy edges shelter pitcher plants, cycads, and the forest animals that move along habitat margins.",
-    image: "/images/species/palawan-pitcher-plant.jpg",
-    alt: "Palawan pitcher plant on a rocky grassland edge",
+    name: "Forest floor & trails",
+    body: "Camera traps catch bearded pigs, mongoose, monitors, and leopard cats moving along leaf litter and stream edges after dark.",
+    image: "/images/species/palawan-leopard-cat.jpg",
+    alt: "Palawan leopard cat at a forest tree hollow",
   },
 ];
 
@@ -332,11 +332,11 @@ export default function HomePage() {
 
       <section className="relative isolate overflow-hidden border-y border-line bg-ink">
         <Image
-          src="/images/hero-el-nido.jpg"
-          alt="Limestone karst and lagoon waters of El Nido, Palawan"
+          src="/images/species/saltwater-crocodile.jpg"
+          alt="Saltwater crocodile in a Palawan wetland"
           fill
           sizes="100vw"
-          className="object-cover opacity-35"
+          className="object-cover object-[center_60%] opacity-35"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/80 to-ink/50" />
         <div className="relative mx-auto max-w-6xl px-4 py-20 sm:py-24">

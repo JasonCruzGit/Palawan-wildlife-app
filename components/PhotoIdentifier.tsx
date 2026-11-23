@@ -125,8 +125,8 @@ export default function PhotoIdentifier() {
           Species & plant identifier
         </h2>
         <p className="mt-2 max-w-xl text-sm text-ink-soft">
-          Choose plant or species first, then take or upload a photo. OpenAI Vision is tuned for
-          Palawan field use.
+          Choose plant or species first, then take or upload a photo. Palawan Wildlife AI is tuned
+          for Palawan field use.
         </p>
       </div>
 
@@ -271,7 +271,7 @@ export default function PhotoIdentifier() {
             <ResultPanel result={state.result} cached={state.cached} onAgain={reset} />
           ) : state.status === "loading" ? (
             <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-ink-soft">
-              Reading {mode === "plant" ? "plant" : "species"} with OpenAI…
+              Reading {mode === "plant" ? "plant" : "species"} with Palawan Wildlife AI…
             </p>
           ) : (
             <div className="space-y-3 text-sm text-ink-soft">
@@ -288,7 +288,7 @@ export default function PhotoIdentifier() {
                 </li>
                 <li>
                   Same photo + mode is reused from cache (no new tokens). A new photo still calls
-                  OpenAI.
+                  Palawan Wildlife AI.
                 </li>
                 <li>AI can be wrong — treat results as a field suggestion, not a final ID.</li>
               </ul>
